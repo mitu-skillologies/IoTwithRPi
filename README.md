@@ -25,8 +25,8 @@ Dos and Donts'
 
 > The steps for Connecting & Accessing via Ethernet is Applicable only if you are 
 using Raspbian Disk Image customized by us
->
-> To locate & Download this image follow [here](WILL.BE.SOON.UPLOADED)
+
+
 
 #### 1. For Windows:
 *   Download and Install [PuTTY](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html)
