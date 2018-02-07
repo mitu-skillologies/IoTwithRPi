@@ -9,6 +9,10 @@ Here you'll find Material you need to get started with Raspberry Pi and Learn Io
 > "This repository can be cloned / edited and redistributed under Open Source Licence. Feel Free to Contribute with 
 more sensors and easy to write Cloud applications"
 
+### IMPORTANT
+#### You must have the Image configured by us, to follow the below steps. You must download it from [here](https://drive.google.com/open?id=1g1sau5byMFjdm9h24I5UhyBdR2yjb4Av)
+
+
 To get started with Raspberry Pi Model 3 (B), You must first understand the Pin Layout of it. Check this out:
 ![Pin Diagram](https://openclipart.org/image/2400px/svg_to_png/280971/gpiopinsv3.png)
 [Source: openclipart.org]
